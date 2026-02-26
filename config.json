@@ -1,0 +1,34 @@
+{
+  "rss_feeds": [
+    "https://www.upwork.com/ab/feed/jobs/rss?q=presentation+design&sort=recency",
+    "https://www.upwork.com/ab/feed/jobs/rss?q=powerpoint+slides&sort=recency"
+  ],
+  "must_have_keywords": [
+    "presentation",
+    "slide",
+    "deck",
+    "powerpoint",
+    "google slides",
+    "keynote"
+  ],
+  "nice_to_have_keywords": [
+    "marketing",
+    "saas",
+    "diagram",
+    "architecture",
+    "visio",
+    "figma",
+    "sales",
+    "startup",
+    "pitch"
+  ],
+  "blocked_keywords": [
+    "translation",
+    "voiceover",
+    "data entry",
+    "blog writing"
+  ],
+  "min_budget_usd": 20,
+  "min_score_to_show": 40,
+  "max_results": 15
+}
